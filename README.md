@@ -23,9 +23,7 @@ A simple and easy-to-use **console application** to help you manage your daily t
    git clone https://github.com/yourusername/daily-task-organizer.git
    cd daily-task-organizer
 
-   Example Usage
-
-   === Daily Task Organizer ===
+=== Daily Task Organizer ===
 1. Add New Task
 2. View All Tasks
 3. Delete a Task
@@ -45,14 +43,4 @@ Choose an option (1-6): 2
 All Tasks:
 1. Finish Python project | Category: Work | Priority: High
 
-Code Highlights
-Tasks stored as tuples (task_name, category, priority) inside a list
 
-Uses filter and lambda functions to show high priority tasks
-
-Uses map and reduce to count tasks by category
-
-Clear, simple menu-driven interface with input validation and error handling
-
-
-   
